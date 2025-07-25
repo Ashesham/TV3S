@@ -1,5 +1,4 @@
 pretrained
 data
-dummy
 *.pyc
-t.ipynb
+*.pth
